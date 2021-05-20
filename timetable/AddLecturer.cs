@@ -79,12 +79,28 @@ namespace TimeTableM
            
         }
 
+        //Add Lecturer Save Button
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            con.Open();
+            try
+            {
+                string qu = "INSERT INTO `addlecture`(`LecName`, `EmpID`, `Faculty`, `Department`, `Center`, `Building`, `Level`, `Rank`) VALUES ('"+txtLecName.Text+"','"+txtEmpID.Text+"','"+cmbFaculty.Text+"','"+cmbDepartment.Text+"','"+cmbCenter.Text+"','"+cmbBuilding.Text+"','"+cmbLevel.Text+"','"+txtRank.Text+"')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+        }
         private void label8_Click(object sender, EventArgs e)
         {
 
         }
-
-        
 
         //Lecturer Levels
         private void cmbLevel_SelectedIndexChanged(object sender, EventArgs e)
