@@ -35,6 +35,7 @@ namespace TimeTableM
 
         }
 
+        //Home button clicked
         private void button4_Click(object sender, EventArgs e)
         {
             Home Home = new Home();
@@ -151,7 +152,7 @@ namespace TimeTableM
             txtSubGrpID.Text = acedemic + "." + prog + "." + grpNo + "." + subNo;
         }
 
-
+        //Add student button cliecked in dashboard
         private void button9_Click(object sender, EventArgs e)
         {
             AddStudent AddStudent = new AddStudent();
