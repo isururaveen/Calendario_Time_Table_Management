@@ -36,11 +36,27 @@ namespace TimeTableM
             this.Hide();
         }
 
-       
-       
+        //Add time slot save button
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string Start = this.txtTStartTime.Text.ToString();
+            string End = this.txtTEndTime.Text.ToString();
 
-        
-        
+            string all = Start + " to " + End;
+            con.Open();
+            try
+            {
+                string qu = "INSERT INTO `addtime`(`timeID`, `StartTime`, `TimeSlot`, `EndTime`, `allTimes`) VALUES ('" + txtID.Text + "','" + Start + "','" + txtTimeSlot.Text + "','" + End + "','" + all + "')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+        }
 
         private void button2_Click(object sender, EventArgs e)
         {
