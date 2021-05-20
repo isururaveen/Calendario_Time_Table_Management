@@ -23,6 +23,7 @@ namespace TimeTableM
             con2 = DBConnect.ConnectDB();
         }
 
+        //back button clicked event
         private void btnBack_Click(object sender, EventArgs e)
         {
             SessionDash SessionDash = new SessionDash();
@@ -30,6 +31,7 @@ namespace TimeTableM
             this.Hide();
         }
 
+        //Home button clicked event
         private void btnHome_Click(object sender, EventArgs e)
         {
             Home Home = new Home();
@@ -37,6 +39,7 @@ namespace TimeTableM
             this.Hide();
         }
 
+        //Save button
         private void btnSubmit_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -54,6 +57,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //View Button
         private void btnView_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -74,6 +78,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Update button
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -92,6 +97,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Search Button
         private void btnSearch_Click(object sender, EventArgs e)
         {
             con2.Open();
@@ -118,6 +124,7 @@ namespace TimeTableM
             con2.Close();
         }
 
+        //Clear button
         private void btnClear_Click(object sender, EventArgs e)
         {
             cmb1Lec.Text = string.Empty;
@@ -130,6 +137,7 @@ namespace TimeTableM
             cmbSrch.Text = string.Empty;
         }
 
+        //Delete Button
         private void btnDelete_Click(object sender, EventArgs e)
         {
             con.Open();
