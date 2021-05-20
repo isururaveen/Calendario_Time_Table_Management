@@ -87,6 +87,23 @@ namespace TimeTableM
 
         }
 
+        //Add Student Groups - Save
+        private void button2_Click(object sender, EventArgs e)
+        {
+            con.Open();
+            try
+            {
+                string qu = "INSERT INTO `addstudentgrp`(`Fac`, `Dep`,`AcademicSemYear`, `Programme`, `GrpNo`, `SubGrpNum`, `GrpID`, `SubGrpID`) VALUES ('" + cmbFac.Text + "','" + cmbDep.Text + "','" + cmbAcademicSemYear.Text + "','" + txtProgramme.Text + "','" + cmbGrpNo.Text + "','" + cmbSubGrpNum.Text + "','" + txtGrpID.Text + "','" + txtSubGrpID.Text + "')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+        }
         
         private void cmbAcademicSemYear_SelectedIndexChanged(object sender, EventArgs e)
         {
