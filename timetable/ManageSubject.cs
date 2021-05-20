@@ -37,6 +37,7 @@ namespace TimeTableM
 
         }
 
+        //Home button clicked in dashboard
         private void button4_Click(object sender, EventArgs e)
         {
             Home Home = new Home();
@@ -44,6 +45,7 @@ namespace TimeTableM
             this.Hide();
         }
 
+        //Add subject button clicked in dashboard
         private void button5_Click(object sender, EventArgs e)
         {
             AddSubject AddSubject = new AddSubject();
@@ -51,6 +53,7 @@ namespace TimeTableM
             this.Hide();
         }
 
+        //View All Subjects
         private void button7_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -70,6 +73,7 @@ namespace TimeTableM
             }
             con.Close();
         }
+
 
         private void button6_Click(object sender, EventArgs e)
         {
@@ -100,6 +104,7 @@ namespace TimeTableM
             con2.Close();
         }
 
+        //Delete Button
         private void button1_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -117,6 +122,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Clear Button
         private void button2_Click(object sender, EventArgs e)
         {
             cmbDepartment.Text = string.Empty;
@@ -130,6 +136,7 @@ namespace TimeTableM
             noUpDwnEvaHours.Text = string.Empty;
         }
 
+        //Update Button
         private void button3_Click(object sender, EventArgs e)
         {
             con.Open();
