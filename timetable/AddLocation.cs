@@ -25,7 +25,7 @@ namespace TimeTableM
         {
             cmbbuildingName.Items.Add("Computing Building");
             cmbbuildingName.Items.Add("Engineering Building");
-            cmbbuildingName.Items.Add("Business Building");
+            cmbbuildingName.Items.Add("Bussiness Building");
             cmbbuildingName.Items.Add("New Building");
         }
 
@@ -40,6 +40,25 @@ namespace TimeTableM
         {
             
         }
+        
+        //Add Locations - insert to the db
+        private void button2_Click(object sender, EventArgs e)
+        {
+            con.Open();
+            try
+            {
+                string qu = "INSERT INTO `addlocation`(`buildingName`, `roomName`, `roomType`, `capacity`) VALUES ('" + cmbbuildingName.Text + "','" + txtroomName.Text + "','" + roomType + "','" + cmbcap.Text + "')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+        }
+
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
             roomType = "Lecture Hall";
