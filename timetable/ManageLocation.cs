@@ -42,7 +42,7 @@ namespace TimeTableM
 
         }
 
-        //Home Button
+        //Home Button Clicked
         private void button4_Click(object sender, EventArgs e)
         {
             Home Home = new Home();
@@ -57,8 +57,8 @@ namespace TimeTableM
             AddLocation.Show();
             this.Hide();
         }
-
-        //Retrieve All Locations
+        
+        //Retrieve All Locations from DB
         private void button_view_Click(object sender, EventArgs e)
         {
             con.Open();
