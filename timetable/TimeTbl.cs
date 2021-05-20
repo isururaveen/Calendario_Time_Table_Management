@@ -20,6 +20,7 @@ namespace TimeTableM
             con = DBConnect.ConnectDB();
         }
 
+        //generate Table Button clicked
         private void btnGenerate_Click(object sender, EventArgs e)
         {
             con.Open();
