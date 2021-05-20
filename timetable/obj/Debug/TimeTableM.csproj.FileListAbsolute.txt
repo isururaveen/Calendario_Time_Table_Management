@@ -1,0 +1,483 @@
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+c:\users\asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\bin\Debug\MySql.Data.dll
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+D:\ITPM\New folder (2)\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistic.resources
+F:\Dimuthu project\Final\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistic.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\MySql.Data.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\Google.Protobuf.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\Zstandard.Net.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\BouncyCastle.Crypto.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\Ubiety.Dns.Core.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\Renci.SshNet.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\System.Buffers.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\K4os.Compression.LZ4.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\K4os.Hash.xxHash.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\bin\Debug\MySql.Data.xml
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.TimeTableM.exe.config
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistic.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+E:\itpm\TimeTableM (1)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\Google.Protobuf.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\Zstandard.Net.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\BouncyCastle.Crypto.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\Ubiety.Dns.Core.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\Renci.SshNet.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\System.Buffers.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\K4os.Compression.LZ4.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\K4os.Hash.xxHash.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\bin\Debug\MySql.Data.xml
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.TimeTableM.exe.config
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Consecutive.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistic.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+D:\ITPM\ITPM Group 2\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+F:\Dimuthu project\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+F:\Dimuthu project\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+F:\Dimuthu project\TimeTableM\TimeTableM\bin\Debug\MySql.Data.dll
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Consecutive.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+F:\Dimuthu project\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTable.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\bin\Debug\MySql.Data.xml
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Consecutive.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTable.resources
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+D:\ITPM\Sprint 2\Group 1\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\bin\Debug\MySql.Data.dll
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Consecutive.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTable.resources
+F:\Dimuthu project\New folder (2)\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\bin\Debug\MySql.Data.xml
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Consecutive.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTable.resources
+D:\ITPM\Sprint 2\Group 1\Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\bin\Debug\MySql.Data.dll
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTable.resources
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+F:\Dimuthu project\FinalMaEka\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTbl.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTbl.resources
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+F:\Dimuthu project\4-Chamika\TimeTableM\TimeTableM\bin\Debug\MySql.Data.dll
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\bin\Debug\MySql.Data.xml
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LecturerDash.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.StudentDash.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TagDash.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTbl.resources
+D:\ITPM\Sprint 2\Group 4 Chamika\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\bin\Debug\MySql.Data.dll
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTbl.resources
+F:\Dimuthu project\4-Chamika\Chamika Update\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\MySql.Data.xml
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.LocationDash.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SubjectDash.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTbl.resources
+C:\Users\Raveen\Desktop\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe.config
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.exe
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.pdb
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\TimeTableM.exe
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\TimeTableM.pdb
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\bin\Debug\MySql.Data.xml
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csprojResolveAssemblyReference.cache
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLecturer.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddLocation.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSession1.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddStudent.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddSubject.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTag.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddTimeSlot.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.AddWorking.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Home.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLecturers.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageLocation.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSession.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageStudent.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageSubject.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.ManageTag.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.NotAvailableTime.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Properties.Resources.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.SessionDash.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.Statistics.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.TimeTbl.resources
+C:\Users\Raveen\Desktop\Setup Testings\Edited ITPM\New folder\Chamika Update with setup\TimeTableM\TimeTableM\obj\Debug\TimeTableM.csproj.GenerateResource.Cache

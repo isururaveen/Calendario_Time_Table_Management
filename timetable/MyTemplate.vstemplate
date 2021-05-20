@@ -1,0 +1,92 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>TimeTableM</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>TimeTableM</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+    <PreviewImage>__PreviewImage.ico</PreviewImage>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="TimeTableM.csproj" File="TimeTableM.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddLecturer.cs">AddLecturer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddLecturer.Designer.cs">AddLecturer.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddLecturer.resx">AddLecturer.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddLocation.cs">AddLocation.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddLocation.Designer.cs">AddLocation.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddLocation.resx">AddLocation.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddSession1.cs">AddSession1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddSession1.Designer.cs">AddSession1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddSession1.resx">AddSession1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddStudent.cs">AddStudent.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddStudent.Designer.cs">AddStudent.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddStudent.resx">AddStudent.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddSubject.cs">AddSubject.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddSubject.Designer.cs">AddSubject.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddSubject.resx">AddSubject.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddTag.cs">AddTag.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddTag.Designer.cs">AddTag.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddTag.resx">AddTag.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddTimeSlot.cs">AddTimeSlot.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddTimeSlot.Designer.cs">AddTimeSlot.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddTimeSlot.resx">AddTimeSlot.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddWorking.cs">AddWorking.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddWorking.Designer.cs">AddWorking.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="AddWorking.resx">AddWorking.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App1.config">App1.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App2.config">App2.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="DBConnect.cs">DBConnect.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Home.cs">Home.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Home.Designer.cs">Home.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Home.resx">Home.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageLecturers.cs">ManageLecturers.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageLecturers.Designer.cs">ManageLecturers.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageLecturers.resx">ManageLecturers.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageLocation.cs">ManageLocation.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageLocation.Designer.cs">ManageLocation.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageLocation.resx">ManageLocation.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageSession.cs">ManageSession.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageSession.Designer.cs">ManageSession.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageSession.resx">ManageSession.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageStudent.cs">ManageStudent.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageStudent.Designer.cs">ManageStudent.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageStudent.resx">ManageStudent.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageSubject.cs">ManageSubject.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageSubject.Designer.cs">ManageSubject.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageSubject.resx">ManageSubject.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageTag.cs">ManageTag.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageTag.Designer.cs">ManageTag.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ManageTag.resx">ManageTag.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="NotAvailableTime.cs">NotAvailableTime.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="NotAvailableTime.Designer.cs">NotAvailableTime.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="NotAvailableTime.resx">NotAvailableTime.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SessionDash.cs">SessionDash.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SessionDash.Designer.cs">SessionDash.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="SessionDash.resx">SessionDash.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Statistics.cs">Statistics.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Statistics.Designer.cs">Statistics.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Statistics.resx">Statistics.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="timetable-2058324-1731940.ico">timetable-2058324-1731940.ico</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TimeTableVari.cs">TimeTableVari.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TimeTbl.cs">TimeTbl.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TimeTbl.Designer.cs">TimeTbl.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="TimeTbl.resx">TimeTbl.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
