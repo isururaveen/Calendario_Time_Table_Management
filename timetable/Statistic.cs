@@ -16,6 +16,7 @@ namespace TimeTableM
         {
             InitializeComponent(); 
             loadStatDetails();
+            loadLatestDetails();
         }
 
         //home Button clicked in Dashboard
@@ -101,6 +102,64 @@ namespace TimeTableM
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        //load What's new section details 
+        public void loadLatestDetails()
+        {
+            
+            try
+            {
+                string qu = "SELECT `LecName` FROM `addlecture` ORDER BY `EmpID` DESC LIMIT 1;";
+                MySqlCommand mcm = new MySqlCommand(qu, con);
+                MySqlDataReader sdr = mcm.ExecuteReader();
+                while (sdr.Read())
+                {
+                    lblLatestLec.Text = sdr.GetValue(0).ToString();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+
+            con.Open();
+            try
+            {
+                string qu = "SELECT `GrpID` FROM `addstudentgrp` ORDER BY `GrpID` DESC LIMIT 1;";
+                MySqlCommand mcm = new MySqlCommand(qu, con);
+                MySqlDataReader sdr = mcm.ExecuteReader();
+                while (sdr.Read())
+                {
+                    lblLatestGroup.Text = sdr.GetValue(0).ToString();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+
+            con.Open();
+            try
+            {
+                string qu = "SELECT `SubjectName` FROM `addsubject` ORDER BY `SubjectCode` DESC LIMIT 1;";
+                MySqlCommand mcm = new MySqlCommand(qu, con);
+                MySqlDataReader sdr = mcm.ExecuteReader();
+                while (sdr.Read())
+                {
+                    lblLatestSub.Text = sdr.GetValue(0).ToString();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
         }
     }
 }
