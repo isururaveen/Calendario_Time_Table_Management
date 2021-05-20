@@ -47,6 +47,23 @@ namespace TimeTableM
             
         }
 
+        //Add Subject Save button
+        private void button2_Click(object sender, EventArgs e)
+        {
+            con.Open();
+            try
+            {
+                string qu = "INSERT INTO `addsubject`(`department`,`dep2`,`OfferdYear`, `OfferedSem`, `SubjectName`, `SubjectCode`, `NoOfLecHours`, `NoOfTuHours`, `NoOfLabHours`, `NoOfEveHours`) VALUES ('" + cmbDepartment.Text + "','" + cmbDep2.Text + "','" + cmbYear.Text + "','" + sem + "','" + txtSubName.Text + "','" + txtSubCode.Text + "','" + noUpDwnLecHours.Text + "','" + noUpDwnNoOfTuteHours.Text + "','" + noUpDwnLabHours.Text + "','" + noUpDwnEvaHours.Text + "')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+        }
         private void button2_Click(object sender, EventArgs e)
         {
             con.Open();
