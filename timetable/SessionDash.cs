@@ -20,6 +20,8 @@ namespace TimeTableM
             con = DBConnect.ConnectDB();
         }
         string timee;
+
+        //Home button clicked event
         private void button1_Click(object sender, EventArgs e)
         {
             Home Home = new Home();
@@ -32,6 +34,7 @@ namespace TimeTableM
 
         }
 
+        //Add Session button clicked
         private void button2_Click(object sender, EventArgs e)
         {
             AddSession1 AddSession1 = new AddSession1();
@@ -39,7 +42,7 @@ namespace TimeTableM
             this.Hide();
         }
 
-
+        //Manage Session Button clicked
         private void button3_Click(object sender, EventArgs e)
         {
             ManageSession ManageSession = new ManageSession();
@@ -47,6 +50,7 @@ namespace TimeTableM
             this.Hide();
         }
 
+        //View All Details
         private void btnViewCon_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -67,6 +71,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Parallel Button
         private void btnPereral_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -87,6 +92,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Non overalapping 
         private void btnNonOver_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -165,8 +171,7 @@ namespace TimeTableM
           
         }
 
-        
-
+        //Session save for the rooms
         private void btnSave_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -185,6 +190,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //View Button
         private void btnView_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -210,6 +216,7 @@ namespace TimeTableM
 
         }
 
+        //Not avaiable button clicked in Dashboard
         private void button4_Click(object sender, EventArgs e)
         {
             NotAvailableTime NotAvailableTime = new NotAvailableTime();
@@ -237,6 +244,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //View Room Names
         private void cmbLocation_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -264,6 +272,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //View All times
         private void cmbTime_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -301,6 +310,7 @@ namespace TimeTableM
 
         }
 
+        //Manage session buttonc clicked in dashboard
         private void button3_Click_1(object sender, EventArgs e)
         {
             ManageSession ManageSession = new ManageSession();
