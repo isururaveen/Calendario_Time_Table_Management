@@ -58,11 +58,11 @@ namespace TimeTableM
         //Load What New Section
         public void loadLatestDetails()
         {
-            
+            //Load Latest Lecturer Name
             try
             {
-                string qu = "SELECT `LecName` FROM `addlecture` ORDER BY `EmpID` DESC LIMIT 1;";
-                MySqlCommand mcm = new MySqlCommand(qu, con);
+                string queryLatestLec_Name = "SELECT `LecName` FROM `addlecture` ORDER BY id;";
+                MySqlCommand mcm = new MySqlCommand(queryLatestLec_Name, con);
                 MySqlDataReader sdr = mcm.ExecuteReader();
                 while (sdr.Read())
                 {
@@ -74,13 +74,15 @@ namespace TimeTableM
             {
                 MessageBox.Show(ex.Message);
             }
+            //Close Connection
             con.Close();
 
+            //Load latest Student Group
             con.Open();
             try
             {
-                string qu = "SELECT `GrpID` FROM `addstudentgrp` ORDER BY `GrpID` DESC LIMIT 1;";
-                MySqlCommand mcm = new MySqlCommand(qu, con);
+                string queryLatestSt_Groups = "SELECT SubGrpID FROM addstudentgrp ORDER BY id;";
+                MySqlCommand mcm = new MySqlCommand(queryLatestSt_Groups, con);
                 MySqlDataReader sdr = mcm.ExecuteReader();
                 while (sdr.Read())
                 {
@@ -92,13 +94,15 @@ namespace TimeTableM
             {
                 MessageBox.Show(ex.Message);
             }
+            //Close Connection
             con.Close();
 
+            //Load Latest Subject Name
             con.Open();
             try
             {
-                string qu = "SELECT `SubjectName` FROM `addsubject` ORDER BY `SubjectCode` DESC LIMIT 1;";
-                MySqlCommand mcm = new MySqlCommand(qu, con);
+                string queryLatestSub_Name= "SELECT `SubjectName` FROM `addsubject` ORDER BY id;";
+                MySqlCommand mcm = new MySqlCommand(queryLatestSub_Name, con);
                 MySqlDataReader sdr = mcm.ExecuteReader();
                 while (sdr.Read())
                 {
@@ -116,11 +120,12 @@ namespace TimeTableM
         //Load StatDetails
         public void loadStatDetails()
         {
+            //Count Lecturers
             con.Open();
             try
             {
-                string qu = "SELECT COUNT(EmpID) FROM addlecture";
-                MySqlCommand cm = new MySqlCommand(qu, con);
+                string queryCountLecurers = "SELECT COUNT(EmpID) FROM addlecture";
+                MySqlCommand cm = new MySqlCommand(queryCountLecurers, con);
                 Int32 rcount = Convert.ToInt32(cm.ExecuteScalar());
                 cm.Dispose();
 
@@ -132,11 +137,12 @@ namespace TimeTableM
             }
             con.Close();
 
+            //Count StudentGroups
             con.Open();
             try
             {
-                string qu = "SELECT COUNT(GrpNo) FROM addstudentgrp";
-                MySqlCommand cm = new MySqlCommand(qu, con);
+                string queryCountSt_Groups = "SELECT COUNT(GrpNo) FROM addstudentgrp";
+                MySqlCommand cm = new MySqlCommand(queryCountSt_Groups, con);
                 Int32 rcount = Convert.ToInt32(cm.ExecuteScalar());
                 cm.Dispose();
 
@@ -148,11 +154,12 @@ namespace TimeTableM
             }
             con.Close();
 
+            //Count Subjects
             con.Open();
             try
             {
-                string qu = "SELECT COUNT(SubjectCode) FROM addsubject";
-                MySqlCommand cm = new MySqlCommand(qu, con);
+                string queryCount_Sub_Groups = "SELECT COUNT(SubjectCode) FROM addsubject";
+                MySqlCommand cm = new MySqlCommand(queryCount_Sub_Groups, con);
                 Int32 rcount = Convert.ToInt32(cm.ExecuteScalar());
                 cm.Dispose();
 
