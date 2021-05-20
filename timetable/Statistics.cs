@@ -62,11 +62,11 @@ namespace TimeTableM
             try
             {
                 string queryLatestLec_Name = "SELECT `LecName` FROM `addlecture` ORDER BY id;";
-                MySqlCommand mcm = new MySqlCommand(queryLatestLec_Name, con);
-                MySqlDataReader sdr = mcm.ExecuteReader();
-                while (sdr.Read())
+                MySqlCommand sqlCmd = new MySqlCommand(queryLatestLec_Name, con);
+                MySqlDataReader sqlrdr = sqlCmd.ExecuteReader();
+                while (sqlrdr.Read())
                 {
-                    lblLatestLec.Text = sdr.GetValue(0).ToString();
+                    lblLatestLec.Text = sqlrdr.GetValue(0).ToString();
                 }
 
             }
@@ -82,11 +82,11 @@ namespace TimeTableM
             try
             {
                 string queryLatestSt_Groups = "SELECT SubGrpID FROM addstudentgrp ORDER BY id;";
-                MySqlCommand mcm = new MySqlCommand(queryLatestSt_Groups, con);
-                MySqlDataReader sdr = mcm.ExecuteReader();
-                while (sdr.Read())
+                MySqlCommand sqlCmd = new MySqlCommand(queryLatestSt_Groups, con);
+                MySqlDataReader sqlrdr = sqlCmd.ExecuteReader();
+                while (sqlrdr.Read())
                 {
-                    lblLatestGroup.Text = sdr.GetValue(0).ToString();
+                    lblLatestGroup.Text = sqlrdr.GetValue(0).ToString();
                 }
 
             }
@@ -102,11 +102,11 @@ namespace TimeTableM
             try
             {
                 string queryLatestSub_Name= "SELECT `SubjectName` FROM `addsubject` ORDER BY id;";
-                MySqlCommand mcm = new MySqlCommand(queryLatestSub_Name, con);
-                MySqlDataReader sdr = mcm.ExecuteReader();
-                while (sdr.Read())
+                MySqlCommand sqlCmd = new MySqlCommand(queryLatestSub_Name, con);
+                MySqlDataReader sqlrdr = sqlCmd.ExecuteReader();
+                while (sqlrdr.Read())
                 {
-                    lblLatestSub.Text = sdr.GetValue(0).ToString();
+                    lblLatestSub.Text = sqlrdr.GetValue(0).ToString();
                 }
 
             }
@@ -125,11 +125,11 @@ namespace TimeTableM
             try
             {
                 string queryCountLecurers = "SELECT COUNT(EmpID) FROM addlecture";
-                MySqlCommand cm = new MySqlCommand(queryCountLecurers, con);
-                Int32 rcount = Convert.ToInt32(cm.ExecuteScalar());
-                cm.Dispose();
+                MySqlCommand sqlCmd = new MySqlCommand(queryCountLecurers, con);
+                Int32 lecCount = Convert.ToInt32(sqlCmd.ExecuteScalar());
+                sqlCmd.Dispose();
 
-                label6Reg.Text = rcount.ToString();
+                label6Reg.Text = lecCount.ToString();
             }
             catch (Exception ex)
             {
@@ -142,11 +142,11 @@ namespace TimeTableM
             try
             {
                 string queryCountSt_Groups = "SELECT COUNT(GrpNo) FROM addstudentgrp";
-                MySqlCommand cm = new MySqlCommand(queryCountSt_Groups, con);
-                Int32 rcount = Convert.ToInt32(cm.ExecuteScalar());
-                cm.Dispose();
+                MySqlCommand sqlCmd = new MySqlCommand(queryCountSt_Groups, con);
+                Int32 stGroupCount = Convert.ToInt32(sqlCmd.ExecuteScalar());
+                sqlCmd.Dispose();
 
-                labelStudentGroups.Text = rcount.ToString();
+                labelStudentGroups.Text = stGroupCount.ToString();
             }
             catch (Exception ex)
             {
@@ -159,27 +159,28 @@ namespace TimeTableM
             try
             {
                 string queryCount_Sub_Groups = "SELECT COUNT(SubjectCode) FROM addsubject";
-                MySqlCommand cm = new MySqlCommand(queryCount_Sub_Groups, con);
-                Int32 rcount = Convert.ToInt32(cm.ExecuteScalar());
-                cm.Dispose();
+                MySqlCommand sqlCmd = new MySqlCommand(queryCount_Sub_Groups, con);
+                Int32 subCount = Convert.ToInt32(sqlCmd.ExecuteScalar());
+                sqlCmd.Dispose();
 
-                labelmodules.Text = rcount.ToString();
+                labelmodules.Text = subCount.ToString();
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
             con.Close();
-
+            
+            //Room Count
             con.Open();
             try
             {
-                string qu = "SELECT COUNT(roomName) FROM addlocation";
-                MySqlCommand cm = new MySqlCommand(qu, con);
-                Int32 rcount = Convert.ToInt32(cm.ExecuteScalar());
-                cm.Dispose();
+                string queryCountRoom = "SELECT COUNT(roomName) FROM addlocation";
+                MySqlCommand sqlCmd = new MySqlCommand(queryCountRoom, con);
+                Int32 roomCount = Convert.ToInt32(sqlCmd.ExecuteScalar());
+                sqlCmd.Dispose();
 
-                labelLocations.Text = rcount.ToString();
+                labelLocations.Text = roomCount.ToString();
             }
             catch (Exception ex)
             {
