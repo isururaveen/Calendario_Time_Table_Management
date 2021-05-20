@@ -32,6 +32,7 @@ namespace TimeTableM
 
         }
 
+        //Home button clicked in dashboard
         private void button4_Click(object sender, EventArgs e)
         {
             Home Home = new Home();
@@ -39,6 +40,7 @@ namespace TimeTableM
             this.Hide();
         }
 
+        //Add Tag button clicked in dashboard
         private void button5_Click(object sender, EventArgs e)
         {
             AddTag AddTag = new AddTag();
@@ -46,6 +48,7 @@ namespace TimeTableM
             this.Hide();
         }
 
+        //Retrieve all deatils
         private void button6_Click(object sender, EventArgs e)
         {
             con2.Open();
@@ -70,6 +73,7 @@ namespace TimeTableM
             con2.Close();
         }
 
+        //View Button
         private void buttonview_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -90,6 +94,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Delete Button
         private void button1_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -107,6 +112,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Update button
         private void button3_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -125,6 +131,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Clear Butotn
         private void button2_Click(object sender, EventArgs e)
         {
             txtSubjectTagName.Clear();
