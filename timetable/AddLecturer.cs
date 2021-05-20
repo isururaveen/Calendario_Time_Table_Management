@@ -66,8 +66,13 @@ namespace TimeTableM
         {
 
         }
-
-        
+        //Home button
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Home Home = new Home();
+            Home.Show();
+            this.Hide();
+        }
 
         private void button5_Click(object sender, EventArgs e)
         {
