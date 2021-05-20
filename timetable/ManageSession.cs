@@ -20,6 +20,8 @@ namespace TimeTableM
             con = DBConnect.ConnectDB();
         }
         string timee;
+        
+        //Manage session View button click
         private void btnView_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -41,6 +43,7 @@ namespace TimeTableM
 
         }
 
+        //Update button clicked
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -59,6 +62,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Delete Button Clicked
         private void btnDelete_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -76,6 +80,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Clear Button Clicked
         private void btnClear_Click(object sender, EventArgs e)
         {
             cmb1Lec.Text = string.Empty;
@@ -90,12 +95,13 @@ namespace TimeTableM
             cmbSrch.Text = string.Empty;           
         }
 
+        //Delete All Button
         private void btnDeleteAll_Click(object sender, EventArgs e)
         {
             con.Open();
             try
             {
-                string qu = "DELETE FROM `addsesstion`";
+                string qu = "DELETE * FROM `addsesstion`";
                 MySqlCommand cm = new MySqlCommand(qu, con);
                 cm.ExecuteNonQuery();
                 MessageBox.Show("Deleted succesfully");
@@ -125,6 +131,7 @@ namespace TimeTableM
             
         }
 
+        //Search Button
         private void btnSearch_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -327,7 +334,7 @@ namespace TimeTableM
             }
             con.Close();
         }
-
+        
         private void cmbTime1_Click(object sender, EventArgs e)
         {
             con.Open();
