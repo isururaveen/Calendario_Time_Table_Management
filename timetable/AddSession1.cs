@@ -41,7 +41,7 @@ namespace TimeTableM
            
         }
 
-       //Add Sesseion button  
+       //Add Session button  
        private void button3_Click(object sender, EventArgs e)
         {
             string Lec1 = cmb1Lec.Text;

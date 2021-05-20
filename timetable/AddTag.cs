@@ -43,6 +43,25 @@ namespace TimeTableM
           
         }
 
+        //Add Tag Save Button
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            con.Open();
+            try
+            {
+                string qu = "INSERT INTO `addtag`(`SubjectTagName`, `SubjectTagCode`, `RelatedTag`) VALUES ('" + cmbSubName.Text + "','" + txtSubCode.Text + "','" + cmbRelatedTag.Text + "')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+        }
+
         private void button2_Click(object sender, EventArgs e)
         {
 
