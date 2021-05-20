@@ -41,7 +41,32 @@ namespace TimeTableM
            
         }
 
-       
+       //Add Sesseion button  
+       private void button3_Click(object sender, EventArgs e)
+        {
+            string Lec1 = cmb1Lec.Text;
+            string Lec2 = cmb2Lec.Text;
+            string Grp = cmbGrp.Text;
+            string Subject = comboBox3.Text;
+            string Tag = cmbTimeSlot.Text;
+            string TagType = txtShowTag.Text;
+            string Day = cmbDay.Text;
+            string NoOfStd = txtNoOfStd.Text;
+            lblAllDetails.Text = Lec1 + "," + Lec2 + "," + Grp + "," + Subject + "," + Tag + "," + TagType + "," + NoOfStd;
+            con.Open();
+            try
+            {
+                string qu = "INSERT INTO addSesstion (`firstLec`, `secondLec`, `tag`, `tagType`, `grp`, `subject`, `noOfStd`, `day`, `room`, `time`, `AllDetails`) VALUES ('" + cmb1Lec.Text + "','" + cmb2Lec.Text + "','" + cmbTimeSlot.Text + "','" + txtShowTag.Text + "','" + cmbGrp.Text + "','" + comboBox3.Text + "','" + txtNoOfStd.Text + "','" + cmbDay.Text + "','NULL','" + cmbTime.Text + "','" + lblAllDetails.Text + "')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
+        }
 
         private void cmb1Lec_SelectedIndexChanged(object sender, EventArgs e)
         {
