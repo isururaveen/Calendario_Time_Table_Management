@@ -42,6 +42,8 @@ namespace TimeTableM
             con.Close();
 
             con.Open();
+
+            //Select Times
             try
             {
                 string qu = "SELECT `allTimes` FROM `addtime` WHERE `allTimes` = (SELECT `allTimes` FROM `addtime` WHERE `timeID` = 2)";
@@ -552,6 +554,7 @@ namespace TimeTableM
             con.Close();
         }
 
+        //Location pallate generate button click event
         private void btnLocGenerate_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -925,6 +928,8 @@ namespace TimeTableM
             }
             con.Close();
         }
+
+        //Home button clicked event in dahsboard
         private void btnHome_Click(object sender, EventArgs e)
         {
             Home hom = new Home();
