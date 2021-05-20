@@ -181,7 +181,21 @@ namespace TimeTableM
             {
                 sunday = null;
             }
+             con.Open();
 
+            //insert Working days 
+            try
+            {
+                string qu = "INSERT INTO `workingdays`(`EmpID`, `NoOfWorkingDays`, `Monday`, `Tuesday`, `Wednesday`, `Thursday`, `Friday`, `Saturday`, `Sunday`, `WrkTimePerDay`) VALUES ('" + txtEmpID.Text + "','" + UpDownNoOfWorkingDays.Text + "','" + monday + "','" + tuesday + "','" + wednesday + "','" + thursday + "','" + friday + "','" + saturday + "','" + sunday + "','" + dateTimePicker1.Text + "')";
+                MySqlCommand cm = new MySqlCommand(qu, con);
+                cm.ExecuteNonQuery();
+                MessageBox.Show("Insert successfully");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            con.Close();
 
             con.Open();
             try
